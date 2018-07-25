@@ -1,6 +1,6 @@
 #!/bin/sh
 
-lang_add=(de he)
+lang_arr=(de he)
 
 for lang in ${lang_arr[@]}
 do
